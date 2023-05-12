@@ -1,0 +1,3 @@
+clear 
+
+python main.py
