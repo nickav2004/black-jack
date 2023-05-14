@@ -62,6 +62,16 @@ def deal_strating_hand(dealer, shuffled_deck):
     print()
 
 
+def check_if_bust():
+    pass
+
+
+def card_value(hand):
+
+    for card in hand:
+        pass
+
+
 def round():
     dealer = Dealer()
     shuffled_deck = shuffle_deck()
